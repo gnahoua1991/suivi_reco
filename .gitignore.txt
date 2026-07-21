@@ -1,0 +1,8 @@
+_pycache__/
+*.pyc
+.env
+.venv/
+.vscode/
+# Décommentez les lignes ci-dessous si vous ne souhaitez PAS publier vos données locales sur GitHub :
+# data_suivi_recodification.csv
+# data_referentiel_sites.csv
