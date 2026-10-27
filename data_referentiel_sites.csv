@@ -32,8 +32,8 @@ DRAS,Zone 4,DRAS_Zone 4,GF1,433
 DRAS,Zone 4,DRAS_Zone 4,GF2,55
 DRAS,Zone 4,DRAS_Zone 4,GF3,2
 DRYOP,Yop,DRYOP_Yop,GF0,0
-DRYOP,Yop,DRYOP_Yop,GF1,2482
-DRYOP,Yop,DRYOP_Yop,GF2,1536
+DRYOP,Yop,DRYOP_Yop,GF1,1000
+DRYOP,Yop,DRYOP_Yop,GF2,1798
 DRYOP,Yop,DRYOP_Yop,GF3,1858
 DRYOP,Annaneraie,DRYOP_Annaneraie,GF0,0
 DRYOP,Annaneraie,DRYOP_Annaneraie,GF1,153
@@ -44,9 +44,9 @@ DRYOP,Niangon,DRYOP_Niangon,GF1,7120
 DRYOP,Niangon,DRYOP_Niangon,GF2,11860
 DRYOP,Niangon,DRYOP_Niangon,GF3,2550
 DRYOP,Wassakara,DRYOP_Wassakara,GF0,0
-DRYOP,Wassakara,DRYOP_Wassakara,GF1,3699
-DRYOP,Wassakara,DRYOP_Wassakara,GF2,2414
-DRYOP,Wassakara,DRYOP_Wassakara,GF3,750
+DRYOP,Wassakara,DRYOP_Wassakara,GF1,2699
+DRYOP,Wassakara,DRYOP_Wassakara,GF2,1414
+DRYOP,Wassakara,DRYOP_Wassakara,GF3,550
 DRABO,Dokui,DRABO_Dokui,GF0,0
 DRABO,Dokui,DRABO_Dokui,GF1,0
 DRABO,Dokui,DRABO_Dokui,GF2,0
