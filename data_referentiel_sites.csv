@@ -5,11 +5,11 @@ DRANE,Plateau,DRANE_Plateau,GF2,21
 DRANE,Plateau,DRANE_Plateau,GF3,13
 DRANE,Cocody,DRANE_Cocody,GF0,0
 DRANE,Cocody,DRANE_Cocody,GF1,69
-DRANE,Cocody,DRANE_Cocody,GF2,590
+DRANE,Cocody,DRANE_Cocody,GF2,3241
 DRANE,Cocody,DRANE_Cocody,GF3,351
 DRANE,Palmeraie,DRANE_Palmeraie,GF0,0
 DRANE,Palmeraie,DRANE_Palmeraie,GF1,6666
-DRANE,Palmeraie,DRANE_Palmeraie,GF2,3710
+DRANE,Palmeraie,DRANE_Palmeraie,GF2,3818
 DRANE,Palmeraie,DRANE_Palmeraie,GF3,9862
 DRANE,Angré,DRANE_Angré,GF0,0
 DRANE,Angré,DRANE_Angré,GF1,3902
@@ -33,15 +33,15 @@ DRAS,Zone 4,DRAS_Zone 4,GF2,55
 DRAS,Zone 4,DRAS_Zone 4,GF3,2
 DRYOP,Yop,DRYOP_Yop,GF0,0
 DRYOP,Yop,DRYOP_Yop,GF1,1000
-DRYOP,Yop,DRYOP_Yop,GF2,1798
+DRYOP,Yop,DRYOP_Yop,GF2,1893
 DRYOP,Yop,DRYOP_Yop,GF3,1858
 DRYOP,Annaneraie,DRYOP_Annaneraie,GF0,0
 DRYOP,Annaneraie,DRYOP_Annaneraie,GF1,153
-DRYOP,Annaneraie,DRYOP_Annaneraie,GF2,200
+DRYOP,Annaneraie,DRYOP_Annaneraie,GF2,400
 DRYOP,Annaneraie,DRYOP_Annaneraie,GF3,1316
 DRYOP,Niangon,DRYOP_Niangon,GF0,0
 DRYOP,Niangon,DRYOP_Niangon,GF1,7120
-DRYOP,Niangon,DRYOP_Niangon,GF2,11860
+DRYOP,Niangon,DRYOP_Niangon,GF2,5050
 DRYOP,Niangon,DRYOP_Niangon,GF3,2550
 DRYOP,Wassakara,DRYOP_Wassakara,GF0,0
 DRYOP,Wassakara,DRYOP_Wassakara,GF1,2699
