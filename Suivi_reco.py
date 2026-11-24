@@ -140,7 +140,7 @@ with st.sidebar:
                 st.write(f"- `{dr}_{s}` (GF0, GF1, GF2, GF3)")
 
 tab_dash, tab_saisie, tab_stock, tab_data = st.tabs([
-    "📊 Dashboard & KPI",
+    "📊 Dashboard & API",
     "📝 Saisie Production",
     "⚙️ Configuration Stocks Initial",
     "📁 Gestion des Données"
